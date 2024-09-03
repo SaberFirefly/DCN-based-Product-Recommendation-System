@@ -1,0 +1,4 @@
+该模型是毕设作品，但由于这类题目已经是老生常谈的问题了，因此，为了创新点绞尽脑汁，最终选择了基于点击率的商品推荐系统，并且采用最常用在与点击率有关的算法中的DCN模型。
+This model is a graduation project, but since this type of problem is already a clich é d issue, in order to innovate, we racked our brains and ultimately chose a product recommendation system based on click through rate, and adopted the DCN model, which is most commonly used in algorithms related to click through rate.
+该模型采用的数据集是阿里的天池云中的用户购物行为分析，其中包含用户ID、用户行为、商品ID、商品种类和日期。该数据集数据非常多，很适合做大数据相关的实验，非常推荐。
+The dataset used in this model is the user shopping behavior analysis in Alibaba's Tianchi Cloud, which includes user ID, user behavior, product ID, product type, and date. This dataset has a large amount of data and is very suitable for experiments related to big data. It is highly recommended.
